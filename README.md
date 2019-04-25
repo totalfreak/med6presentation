@@ -15,3 +15,8 @@ to build the pdf
 - pandoc
 - pandoc-citeproc
 - texlive-core
+
+## Optional
+
+A markdown editor is recommended, I use [typora](https://typora.io/).
+

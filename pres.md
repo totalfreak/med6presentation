@@ -11,9 +11,7 @@ theme:
 
 This is the text
 
-- This is a list
-- Another item
-- yadayada [@playerEngagement]
+- Playing is quite engaging [@playerEngagement]
 - Concito report sad people about climate change [@concito]
 
 # Section heading 2
