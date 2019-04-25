@@ -2,7 +2,10 @@
 title:
 - Narrative Driver
 author:
-- MED604
+- Daniel Glenn Kartin
+- Simon Frandsen
+- Jens Jakúp Gaardbo
+- Frederik Dam Hansen
 theme:
 - AAUsimple
 ---
