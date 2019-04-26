@@ -1,0 +1,1 @@
+while inotifywait -e close_write pres.md; do make; done
