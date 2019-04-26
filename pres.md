@@ -1,6 +1,6 @@
 ---
 title:
-- Narrative Driver
+- Narrative Driver The Game
 author:
 - Daniel Glenn Kartin
 - Simon Frandsen
@@ -34,6 +34,4 @@ $$\frac{1}{2} * x y + \infty$$
 Cool shit and such
 
 # Bibliography
-
-Shite automakes
 

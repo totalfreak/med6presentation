@@ -13,8 +13,16 @@ to build the pdf
 ## Dependencies
 
 - pandoc
+
 - pandoc-citeproc
-- texlive-core
+
+- texlive-latex
+
+- texlive-latex-recommended
+
+- texlive-latex-extra
+
+  For easier building also ``` make``` of course.
 
 ## Optional
 
